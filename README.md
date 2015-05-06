@@ -1,4 +1,4 @@
-# Jparsec Calculator Example [![Build Status](https://travis-ci.org/soulmachine/jparsec-example.png)](https://travis-ci.org/soulmachine/jparsec-example)
+# Jparsec Calculator Example [![Build Status](https://travis-ci.org/soulmachine/JparsecExample.png)](https://travis-ci.org/soulmachine/JparsecExample)
 
 ## Introduction
 
